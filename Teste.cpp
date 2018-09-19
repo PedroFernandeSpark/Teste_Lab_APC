@@ -8,9 +8,9 @@ int main()
     double R, r, Ang;
     Ponto P1, P2, P3, Ps;
 
-    AbreJanela(700, 700, "SistemaSolar");
+    AbreJanela(700, 700, "SistemaSolarElipseS");
     MostraPlanoCartesiano(10);
-    PintarFundo(10, 10, 10);
+    PintarFundo(20, 20, 20);
 
     P1.x     =   0;
     P1.y     =   0;
